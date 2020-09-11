@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Jochen.
 
-<!--
-**geewiz/geewiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the founder and CTO of [freistil IT](https://www.freistil.it), a distributed team of web operations experts. I live with my family near Dublin, Ireland.
 
-Here are some ideas to get you started:
+## Fun facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I build and collect mechanical keyboards. At the moment, I own about 10.
+- I love old computers and own a working replica of a PDP-11, a 1970's era minicomputer.
+- I once contemplated becoming a Catholic priest, but love intervened.
+- Over the decades, I've coded in BASIC, Assembler (6502, 68000, PDP-11), Clipper/dBase, Pascal, Forth, C, Prolog, Ada, C++, Perl, PHP, Bash, Javascript and Ruby.
+
+## Contact
+
+You can reach me via...
+
+- [Twitter](https://www.twitter.com/geewiz)
+- [my Discord server](https://discord.gg/9BXevPr)
