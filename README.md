@@ -18,8 +18,8 @@ You can reach me via...
 
 ## From my blog
 
-<!-- BLOG:START -->
-<!-- BLOG:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## My latest YouTube videos
 
