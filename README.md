@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Jochen.
+# Hi there 👋, I'm Jochen.
 
-I'm the founder and CTO of [freistil IT](https://www.freistil.it), a distributed team of web operations experts. I live with my family near Dublin, Ireland.
+I'm the CTO and co-founder of [freistil IT](https://www.freistil.it), a distributed team of web operations experts. I live with my family near Dublin, Ireland.
 
 ## Fun facts
 
@@ -15,3 +15,13 @@ You can reach me via...
 
 - [Twitter](https://www.twitter.com/geewiz)
 - [my Discord server](https://discord.gg/9BXevPr)
+
+## From my blog
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+## My latest YouTube videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
