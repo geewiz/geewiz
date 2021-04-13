@@ -19,7 +19,7 @@ You can reach me via...
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [[2021-04-13] FullStackLive is back! | Coworking | CTO life | Ruby, DevOps | AMA](https://www.youtube.com/watch?v=hdT_oWSdxB4)
 - [[Live Coding] Using Docker for developing Ruby on Rails applications (cont.)](https://www.youtube.com/watch?v=bvkK9MeyVdA)
 - [[Live Coding] Using Docker for developing Ruby on Rails applications](https://www.youtube.com/watch?v=e89dwvP_KXI)
-- [[Live coding] More Chef infrastructure code refactoring](https://www.youtube.com/watch?v=QCGIlpFDcWY)
 <!-- YOUTUBE:END -->
