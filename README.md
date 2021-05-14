@@ -16,10 +16,10 @@ You can reach me via...
 - [Twitter](https://www.twitter.com/geewiz)
 - [my Discord server](https://discord.gg/9BXevPr)
 
-## My latest blog posts
+## My latest posts on DEV.TO
 
-<!-- BLOG:START -->
-<!-- BLOG:END -->
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
 
 ## My latest YouTube videos
 

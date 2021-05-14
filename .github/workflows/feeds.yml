@@ -12,8 +12,8 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG"
-          feed_list: "https://geewiz.dev/feed.xml"
+          comment_tag_name: "DEVTO"
+          feed_list: "https://dev.to/feed/geewiz"
           max_post_count: 3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
