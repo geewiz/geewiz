@@ -19,6 +19,9 @@ You can reach me via...
 ## My latest posts on DEV.TO
 
 <!-- DEVTO:START -->
+- [Weeknote W5 2021](https://dev.to/geewiz/weeknote-w5-2021-f0o)
+- [Clean Chef code: Depend on public cookbook interfaces](https://dev.to/geewiz/clean-chef-code-depend-on-public-cookbook-interfaces-2dkb)
+- [DIRECT - The seven core topics of remote team communication](https://dev.to/geewiz/direct-what-do-you-share-with-your-distributed-team-4513)
 <!-- DEVTO:END -->
 
 ## My latest YouTube videos
