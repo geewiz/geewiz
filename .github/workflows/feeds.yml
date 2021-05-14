@@ -1,8 +1,7 @@
 name: Update feeds
 on:
   schedule:
-    # Runs every hour
-    - cron: '14 * * * *'
+    - cron: '02 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://geewiz.dev/feed.xml"
+          max_post_count: 3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"

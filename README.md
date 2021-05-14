@@ -16,6 +16,11 @@ You can reach me via...
 - [Twitter](https://www.twitter.com/geewiz)
 - [my Discord server](https://discord.gg/9BXevPr)
 
+## My latest blog posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
