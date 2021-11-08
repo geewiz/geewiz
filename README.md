@@ -29,5 +29,5 @@ You can reach me via...
 <!-- YOUTUBE:START -->
 - [Career Ladder // Chef coding [2021-05-18]](https://www.youtube.com/watch?v=qQgyF6Ae4AU)
 - [[2021-05-12] Refactoring the Chef cookbook for Netdata](https://www.youtube.com/watch?v=TbN0ebo5XAY)
-- [[2021-05-11] Monitoring with Netdata & I ditched the Mac!](https://www.youtube.com/watch?v=nDLxd3knHbg)
+- [[2021-05-11] Monitoring with Netdata &amp; I ditched the Mac!](https://www.youtube.com/watch?v=nDLxd3knHbg)
 <!-- YOUTUBE:END -->
