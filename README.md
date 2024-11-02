@@ -2,27 +2,18 @@
 
 I'm the CTO and co-founder of [freistil IT](https://www.freistil.it), a distributed team of web operations experts. I live with my family near Dublin, Ireland.
 
+At [Monospace Mentor](https://monospacementor.com), I help software engineers level up in DevOps and reliability engineering.
+
 ## Fun facts
 
-- I build and collect mechanical keyboards. At the moment, I own about 10.
-- I love old computers and own a working replica of a PDP-11, a 1970's era minicomputer.
-- I once contemplated becoming a Catholic priest, but love intervened.
 - Over the decades, I've coded in BASIC, Assembler (6502, 68000, PDP-11), Clipper/dBase, Pascal, Forth, C, Prolog, Ada, C++, Perl, PHP, Bash, Javascript and Ruby.
+- I own far too many mechanical keyboards.
+- I love old computers and own a working replica of a PDP-11, a 1970's era minicomputer that was used to develop the UNIX operating system.
 
-## Contact
+## My latest posts on monospacementor.com
 
-You can reach me via...
-
-- [Twitter](https://www.twitter.com/geewiz)
-- [my Discord server](https://discord.gg/9BXevPr)
-
-## My latest posts on DEV.TO
-
-<!-- DEVTO:START -->
-- [Weeknote W5 2021](https://dev.to/geewiz/weeknote-w5-2021-f0o)
-- [Clean Chef code: Depend on public cookbook interfaces](https://dev.to/geewiz/clean-chef-code-depend-on-public-cookbook-interfaces-2dkb)
-- [DIRECT - The seven core topics of remote team communication](https://dev.to/geewiz/direct-what-do-you-share-with-your-distributed-team-4513)
-<!-- DEVTO:END -->
+<!-- MONOSPACE:START -->
+<!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
 
