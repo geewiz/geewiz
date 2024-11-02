@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
-- [Career Ladder // Chef coding [2021-05-18]](https://www.youtube.com/watch?v=qQgyF6Ae4AU)
-- [[2021-05-12] Refactoring the Chef cookbook for Netdata](https://www.youtube.com/watch?v=TbN0ebo5XAY)
-- [[2021-05-11] Monitoring with Netdata &amp; I ditched the Mac!](https://www.youtube.com/watch?v=nDLxd3knHbg)
+- [!officehour DevOps/SRE/CTO - AMA!](https://www.youtube.com/watch?v=J5NSxUzMNpg)
+- [It&#39;s Choresday, let&#39;s clean up some infra cookbooks! || DevOps/SRE/CTO](https://www.youtube.com/watch?v=cFdL7rbLRqI)
+- [DevOps/SRE/CTO !officehour - AMA!](https://www.youtube.com/watch?v=uFr-Crmk5nQ)
 <!-- YOUTUBE:END -->
