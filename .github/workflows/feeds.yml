@@ -1,21 +1,26 @@
 name: Update feeds
 on:
   schedule:
-    - cron: '02 18 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-feeds:
     name: Update this repo's README with latest feed entries
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull Monospace Mentor blog
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MONOSPACE"
           feed_list: "https://monospacementor.com/feed"
           max_post_count: 3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Pull YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCyYSXGM9OpT4VvoIcYQIYhA"
