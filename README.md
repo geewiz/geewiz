@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Coworking || DevOps/SRE/CTO || !sweet !task !done](https://www.youtube.com/watch?v=r0vRq1jsuT4)
 - [Coworking || DevOps/SRE/CTO || !sweet !task !done](https://www.youtube.com/watch?v=fACiLgnjJ0I)
 - [!officehour DevOps/SRE/CTO - AMA!](https://www.youtube.com/watch?v=J5NSxUzMNpg)
-- [It&#39;s Choresday, let&#39;s clean up some infra cookbooks! || DevOps/SRE/CTO](https://www.youtube.com/watch?v=cFdL7rbLRqI)
 <!-- YOUTUBE:END -->
