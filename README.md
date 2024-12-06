@@ -13,9 +13,9 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest posts on monospacementor.com
 
 <!-- MONOSPACE:START -->
+- [A rocky but encouraging start with Rails credentials](https://monospacementor.com/2024/12/a-rocky-but-encouraging-start-with-rails-credentials/)
 - [Flatpak saved my live stream](https://monospacementor.com/2024/11/flatpak-saved-my-live-stream/)
 - [Taking time off is part of the job](https://monospacementor.com/2024/10/taking-time-off-is-part-of-the-job/)
-- [I was on the Beyond Blocks podcast](https://monospacementor.com/2024/10/beyond-blocks-podcast/)
 <!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
