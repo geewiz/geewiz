@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Ruby on Rails || DevOps/SRE/CTO](https://www.youtube.com/watch?v=GxfBKRARcAY)
+- [!officehour DevOps/SRE/CTO - AMA!](https://www.youtube.com/watch?v=tOyuXme62II)
 - [!officehour DevOps/SRE/CTO - AMA!](https://www.youtube.com/watch?v=OFo2T3etNWM)
-- [!officehour DevOps/SRE/CTO - AMA!](https://www.youtube.com/watch?v=qnrbXi1Hv0g)
-- [Office Hour — Bring your questions! // Ruby dev + Linux ops + CTO life // !officehour !discord !s…](https://www.youtube.com/watch?v=LbZHd4_3LfQ)
 <!-- YOUTUBE:END -->
