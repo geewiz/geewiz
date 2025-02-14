@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Answering your questions || DevOps/SecOps/SRE Instructor || !officehour !community](https://www.youtube.com/watch?v=oRGN_JwVzuY)
 - [Live stream: DevOps/SecOps/SRE Instructor](https://www.youtube.com/watch?v=CWRtbztUXL4)
 - [Live stream: DevOps/SecOps/SRE Instructor](https://www.youtube.com/watch?v=jOX1oC3W1ag)
-- [Live stream: DevOps/SecOps/SRE Instructor](https://www.youtube.com/watch?v=Yv2yEaO6pTk)
 <!-- YOUTUBE:END -->
