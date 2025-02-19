@@ -13,9 +13,9 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest posts on monospacementor.com
 
 <!-- MONOSPACE:START -->
+- [If you’re a bad at management, don’t blame remote work](https://monospacementor.com/2025/02/remote-work-needs-good-managers/)
 - [When is it recommended to adopt a new DevOps tool?](https://monospacementor.com/2025/02/when-adopt-new-devops-tool/)
 - [Always update the BIOS first](https://monospacementor.com/2025/02/always-update-bios-first/)
-- [A rocky but encouraging start with Rails credentials](https://monospacementor.com/2024/12/a-rocky-but-encouraging-start-with-rails-credentials/)
 <!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
