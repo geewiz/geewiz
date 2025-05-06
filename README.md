@@ -13,9 +13,9 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest posts on monospacementor.com
 
 <!-- MONOSPACE:START -->
+- [A community that becomes your cohort of mentors](https://monospacementor.com/2025/05/a-community-that-becomes-your-cohort-of-mentors/)
 - [Self-Hosting Web Applications Using Podman](https://monospacementor.com/2025/02/self-hosting-web-applications-using-podman/)
 - [If you’re a bad at management, don’t blame remote work](https://monospacementor.com/2025/02/remote-work-needs-good-managers/)
-- [When is it recommended to adopt a new DevOps tool?](https://monospacementor.com/2025/02/when-adopt-new-devops-tool/)
 <!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
