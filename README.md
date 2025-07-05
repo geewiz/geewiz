@@ -13,9 +13,9 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest posts on monospacementor.com
 
 <!-- MONOSPACE:START -->
+- [TSR Community Hangout July 2025](https://monospacementor.com/2025/07/hangout-july-2025/)
 - [Linux Shell for Beginners: The ls command](https://monospacementor.com/2025/05/linux-shell-for-beginners-the-ls-command/)
 - [A community that becomes your cohort of mentors](https://monospacementor.com/2025/05/a-community-that-becomes-your-cohort-of-mentors/)
-- [Self-Hosting Web Applications Using Podman](https://monospacementor.com/2025/02/self-hosting-web-applications-using-podman/)
 <!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
