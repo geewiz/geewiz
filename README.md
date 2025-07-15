@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [DevOps/SRE Coworking](https://www.youtube.com/watch?v=EHfzR69qYLE)
 - [DevOps/SRE Coworking](https://www.youtube.com/watch?v=UzBnKujOJXs)
 - [Answering your DevOps/SRE questions](https://www.youtube.com/watch?v=XukgJnj16OA)
-- [DevOps/SRE Coworking](https://www.youtube.com/watch?v=up60uOiuMVI)
 <!-- YOUTUBE:END -->
