@@ -13,9 +13,9 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest posts on monospacementor.com
 
 <!-- MONOSPACE:START -->
+- [A homelab is a skill booster](https://monospacementor.com/2025/08/a-homelab-is-a-skill-booster/)
 - [TSR Community Hangout August 2025](https://monospacementor.com/2025/07/hangout-august-2025/)
 - [TSR Community Hangout July 2025](https://monospacementor.com/2025/07/hangout-july-2025/)
-- [Linux Shell for Beginners: The ls command](https://monospacementor.com/2025/05/linux-shell-for-beginners-the-ls-command/)
 <!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
