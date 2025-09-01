@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Preparing for my free course Basic Linux System Administration](https://www.youtube.com/watch?v=HW8ydZBJ6PU)
 - [DevOps/SRE Work](https://www.youtube.com/watch?v=M0F6TavYOiw)
 - [Answering your DevOps/SRE questions](https://www.youtube.com/watch?v=o6PL488qEmM)
-- [Answering your DevOps/SRE questions](https://www.youtube.com/watch?v=2UdrMzmUgM8)
 <!-- YOUTUBE:END -->
