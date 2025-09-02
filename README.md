@@ -13,9 +13,9 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest posts on monospacementor.com
 
 <!-- MONOSPACE:START -->
+- [Bringing Linux Administration to Everyone: Free Online Course Starting Soon](https://monospacementor.com/2025/09/free-linux-sysadmin-course/)
 - [TSR Community Hangout September 2025](https://monospacementor.com/2025/09/tsr-community-hangout-september-2025/)
 - [A homelab is a skill booster](https://monospacementor.com/2025/08/a-homelab-is-a-skill-booster/)
-- [TSR Community Hangout August 2025](https://monospacementor.com/2025/07/hangout-august-2025/)
 <!-- MONOSPACE:END -->
 
 ## My latest YouTube videos
