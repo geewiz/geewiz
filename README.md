@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [Ruby on Rails | !plan !linuxcourse](https://www.youtube.com/watch?v=oz6WtKwoipM)
 - [Answering your DevOps/SRE questions | !officehour !linuxcourse](https://www.youtube.com/watch?v=NdPd1cD17fg)
 - [Ruby on Rails coding / Preparing for my free Linux course | !linuxcourse](https://www.youtube.com/watch?v=KgQrGJAVckk)
-- [Preparing for my free course Basic Linux System Administration](https://www.youtube.com/watch?v=HW8ydZBJ6PU)
 <!-- YOUTUBE:END -->
