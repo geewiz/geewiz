@@ -21,7 +21,7 @@ At [Monospace Mentor](https://monospacementor.com), I help software engineers le
 ## My latest YouTube videos
 
 <!-- YOUTUBE:START -->
+- [LIVE COURSE: Basic Linux System Administration, Module 1: Linux Fundamentals | !linuxcourse](https://www.youtube.com/watch?v=XeB-eSUQTkQ)
 - [Rails deployment with Kamal, part 2 | !plan !linuxcourse](https://www.youtube.com/watch?v=WK4CKCNLw7g)
 - [Answering your DevOps/SRE questions | !officehour](https://www.youtube.com/watch?v=v0uH5LLvaoY)
-- [Rails app deployment with Kamal | !plan !linuxcourse](https://www.youtube.com/watch?v=oz6WtKwoipM)
 <!-- YOUTUBE:END -->
