@@ -1,7 +1,7 @@
 name: Update feeds
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '27 7 * * *'
   workflow_dispatch:
 permissions:
   contents: write
